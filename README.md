@@ -31,7 +31,7 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
-| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_campaign=bfcm2025) | Vue.js + Nuxt-ready PDF Viewer with customization options and annotations. | 25% OFF Dev / 40% OFF Org License | 17-Nov - 1-Dec |
+| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_campaign=bfcm2025) | Vue.js + Nuxt-ready PDF Viewer with customization options and annotations. | 30% OFF Viewer / 40% OFF Viewer+Annotation License | 17-Nov - 1-Dec |
 | 2   | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_campaign=bfcm2025) | A React.js component for rendering PDF documents with flexible customization options. Suitable for integrating PDF viewing capabilities into web applications. | 25% OFF Dev / 40% OFF Org License | 17-Nov - 1-Dec |
 | 3   | [MDBootstrap](https://mdbootstrap.com/) | Material Design + Bootstrap 5 UI kit supporting Vue, React, Angular, and more. | Up to 98% OFF | Now – |
 | 4   | [Next Admin](https://nextadmin.co/) | 200+ Next.js dashboard components and 45+ page layouts for fast admin UI building. | Use code `BLFCM2025` | 18-Nov – 2-Dec |
