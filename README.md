@@ -42,6 +42,7 @@
 | 9   | [FrameBlox](https://www.frameblox.com/) | Complete Framer UI kit with components and design system. | 50% OFF with `BLACKFRIDAY25` | Now – |
 | 10  | [UIDeck](https://uideck.com/) | 100+ templates and UI kits built with Tailwind CSS & Bootstrap. | 60% OFF with `BLFCM2025` | 18-Nov – 2-Dec |
 | 11  | [shadcn/studio](https://shadcnstudio.com/) | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | 30% OFF with `BFCM30SS` | 24-Nov – 1-Dec |
+| 12  | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to 50% OFF for a limited number of licenses with code `BLACKFRIDAY2025` | 24-Nov – 2-Dec |
 
 
 ## 🛠️ Development Tools
